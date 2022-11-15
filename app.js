@@ -74,8 +74,7 @@ app.get("/posts/:postName", function (req, res) {
     if (storedTitle === parameter) {
       res.render("post", {
         postTitle: post.composeTitle,
-        postText: post.composeTextArea,
-        postLink: "/posts/" + parameter
+        postText: post.composeTextArea
       })
     }
   })
