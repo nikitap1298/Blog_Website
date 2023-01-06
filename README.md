@@ -1,4 +1,4 @@
-# Blog_Website
+# Blog Website
 
 Small project I made while was studying on Udemy (The Complete 2022 Web Development Bootcamp)
 
